@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Enriquez_Lab2_INF253</string>
+    <string name="personal_greeting">Hello, Shane!</string>
+    <string name="opne_lifecycle">Open Lifecycle demo</string>
+    <string name="back_to_greeting">Back to greeting</string>
+    <string name="lifecycle_title">Activity Lifecycle demo</string>
+    <string name="Lifecycle_instructions">Filter Longcat by tag:Lifecycle demo</string>
+</resources>
